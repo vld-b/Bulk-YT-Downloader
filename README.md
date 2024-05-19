@@ -6,7 +6,7 @@ A Python 3.12+ interpreter (might also work on lower versions like 3.10 or 3.9, 
 pytube installed. You can do this with `pip install pytube` (Python interpreter required)
 
 # Usage
-### Works only on long form videos, not shorts
+## Works only on long form videos, not shorts
 In a .txt (text) file, write all the video links, separating them by comma.
 Then run the script with `python main.py` or an alternate way of your choice
 Make sure the Python and text file are in the same folder
