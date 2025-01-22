@@ -2,8 +2,8 @@
 A python script made for downloading YT videos in bulk
 
 # Prerequisities
-A Python 3.12+ interpreter (might also work on lower versions like 3.10 or 3.9, but it's untested
-pytube installed. You can do this with `pip install pytube` (Python interpreter required)
+A Python 3.12+ interpreter (might also work on lower versions like 3.10 or 3.9, but it's untested.
+Install pytube. You can do this with `pip install pytube` (Python interpreter required)
 
 # Usage
 ### Works only on long form videos, not shorts
